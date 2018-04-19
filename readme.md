@@ -35,6 +35,9 @@ Read the OpenSSL [documentation](https://www.openssl.org/docs/) for further info
 
 `docker run -it --entrypoint /bin/ash frapsoft/openssl`
 
+### Release
+    0.1
+
 ### Contact / Social Media
 
 _Get the latest News about Web Development, Open Source, Tooling, Server & Security_
